@@ -1,4 +1,4 @@
-for_test.ipynb
+﻿for_test.ipynb
 for_test.ipynb
 Exploring data.ipynb
 .ipynb_checkpoints/compustat processing-checkpoint.ipynb
@@ -13,8 +13,14 @@ Exploring data.ipynb
 1 patent data processing/.ipynb_checkpoints/1_USPTO Patent selection-checkpoint.ipynb
 3 compustat/.ipynb_checkpoints/patent - compustat matching (Bio)-checkpoint.ipynb
 2 app data processing/.ipynb_checkpoints/3_Get USAappcitation from USPTO XMLs-checkpoint.ipynb
-*.ipynb
 3 compustat/.ipynb_checkpoints/patent - compustat matching (Bio)-checkpoint.ipynb
 3 compustat/.ipynb_checkpoints/patent - compustat matching (Bio)-checkpoint.ipynb
 3 compustat/.ipynb_checkpoints/patent - compustat matching (Bio)-checkpoint.ipynb
 2 app data processing/.ipynb_checkpoints/3_Get USAappcitation from USPTO XMLs-checkpoint.ipynb
+*.Rhistory
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.ipynb_checkpoints/app citatation-checkpoint.ipynb
+.ipynb_checkpoints/DB table 만들기-checkpoint.ipynb
+3 compustat/.ipynb_checkpoints/compustat processing 05-07-checkpoint.ipynb
+4 litigation/.ipynb_checkpoints/2_litigation matching (bio)-checkpoint.ipynb
+4 litigation/.ipynb_checkpoints/2_litigation matching-checkpoint.ipynb
