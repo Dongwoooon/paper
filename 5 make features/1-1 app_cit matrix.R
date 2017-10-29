@@ -53,6 +53,6 @@ for(i in 2005:2012) {
 
 for(i in 2005:2012) {
   mat <- get_adj(ee,i)
-  fname = paste('appcit_matrix_bio_EE&IT_',as.character(i),'.csv',sep='')
+  fname = paste('appcit_matrix_EE&IT_',as.character(i),'.csv',sep='')
   write.csv(mat,fname)
 }
